@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Iteracion1/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion1/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion2/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion2/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion3/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion3/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion4/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion4/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion5/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion5/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion6/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion6/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion7/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion7/src/test/java"/>
+	<classpathentry kind="src" path="Iteracion8/src/main/java"/>
+	<classpathentry kind="src" path="Iteracion8/src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/JAVIER OLIVER ASUS/Desktop/uni/eclipse/UCanAccess-3.0.2-bin/UCanAccess-3.0.2-bin/ucanaccess-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JAVIER OLIVER ASUS/Desktop/uni/eclipse/UCanAccess-3.0.2-bin/UCanAccess-3.0.2-bin/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JAVIER OLIVER ASUS/Desktop/uni/eclipse/UCanAccess-3.0.2-bin/UCanAccess-3.0.2-bin/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JAVIER OLIVER ASUS/Desktop/uni/eclipse/UCanAccess-3.0.2-bin/UCanAccess-3.0.2-bin/lib/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JAVIER OLIVER ASUS/Desktop/uni/eclipse/UCanAccess-3.0.2-bin/UCanAccess-3.0.2-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
